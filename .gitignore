@@ -1,0 +1,5 @@
+grafana/storage/
+grafana/alerting/
+grafana/csv/
+grafana/png/
+grafana/grafana.db

@@ -1,0 +1,17 @@
+{
+	"ulid": "01G25QR89HQ8M1CQ99RF5ASFP5",
+	"minTime": 1651596806359,
+	"maxTime": 1651600800000,
+	"stats": {
+		"numSamples": 348170,
+		"numSeries": 977,
+		"numChunks": 2598
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G25QR89HQ8M1CQ99RF5ASFP5"
+		]
+	},
+	"version": 1
+}
